@@ -18,7 +18,7 @@ Hi, I'm Tanvi and I am in 10th grade at Del Norte High School. I like to dance, 
 - We went through some downloading issues, like downloading homebrew, so we had to reload it, then tried again and it worked. One of the problems that we faced was that we both had trouble with making a repository, and it constantly kept loading, so we were unable to continue with our project productively, as the time that we had was limited for this. We talked to the teacher, and we learned that we needed to put text into the box above the commit button, in order for it to work and save. Overall, we really collaborated together well, just to make sure that we were both on the same page, and we would help each other with any problems that the other person was facing. 
 We made sure that we were both working well together, during class we would check in with each other during assignments so that we could move on together.
 
-![about](https://github.com/tanvim-18/student/assets/142523190/d3d04a85-364d-472c-a408-e2c398efd460)
+![about](https://github.com/tanvim-18/student/assets/142523190/d3d04a85-364d-472c-a408-e2c398efd460), "width = 300" "height = 300"
 
 
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
