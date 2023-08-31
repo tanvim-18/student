@@ -5,12 +5,10 @@ layout: post
 title: GitHub Pages
 description: Build your first Blog.  This will help us communicate results.
 type: plans
-courses: { csse: {week: 1}, compsci: {week: 1, categories: [4.A]}, csa: {week: 0} }
+courses: { csse: {week: 1}, compsci: {week: 1, categories: [4.A]}, csa: {week: 1} }
 categories: [C1.4]
 ---
 
-### PBL Sprint 0 / Week 0
-Learning outcome. Building a personal and running GitHub Pages.
-- Monday: Live review of Tools and GitHub.
-- Tuesday through Thursday: Tech Talks and work.
-- Wednesday: Code, Code, Coding
+### Week 1 Plans
+This week we went over many different things:
+- Our main important thing was to start customizing the homepage of our blog pages. We started off with adding in our about me free form picture, adding in the tools that we installed, along with some of the problems that we encountered. We also changed the theme of our blog pages by modifying the _config.yml file. We then presented this with our partners. 
