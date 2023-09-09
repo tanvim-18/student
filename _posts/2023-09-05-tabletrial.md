@@ -2,8 +2,8 @@
 toc: True
 comments: false
 layout: post
-title: my table
-description: table
+title: My Table
+description: This is a table that shows afew programming languages, and their primary use cases. 
 courses: {'compsci': {'week': 3}}
 type: hacks
 ---
