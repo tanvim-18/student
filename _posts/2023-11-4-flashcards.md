@@ -31,13 +31,13 @@ courses: { compsci: {week: 11} }
             text-align: left;
         }
 
-        /* Style for question titles */
+        /* Style for question titles (changed font color to blue) */
         .question h2 {
             font-size: 18px;
-            color: #333;
+            color: #3498db; /* Blue color for question titles */
         }
 
-        /* Style for answer choices */
+        /* Style for answer choices (changed font color to dark gray) */
         .question ul {
             list-style-type: none;
             padding: 0;
@@ -45,6 +45,7 @@ courses: { compsci: {week: 11} }
 
         .question li {
             padding: 8px 0;
+            color: #333; /* Dark gray color for answer choices */
         }
 
         /* Style for the correct answer reveal */
@@ -58,7 +59,7 @@ courses: { compsci: {week: 11} }
             color: #333;
         }
 
-        /* Style for the correct answer */
+        /* Style for the correct answer text color (changed to green) */
         .question details p {
             margin: 0;
             color: #009900; /* Green color for correct answer */
