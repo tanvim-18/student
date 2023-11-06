@@ -10,409 +10,56 @@ courses: { compsci: {week: 12} }
 
 ## 
 
-Content & Skills Performance
-Questions
-Question Name
-Topic
-Skills
-Time Spent
-Results (pts.)
-Q1
-Swap values first and second
-3.1
-4.B
-14:47	
-1/1
-Q2
-Bank phishing attempt
-5.6
-5.E
-02:07	
-1/1
-Q3
-Identify use of citizen science
-5.4
-1.C
-00:57	
-1/1
-Q4
-Boolean variable needed for simulation
-3.1
-3.A
-00:56	
-1/1
-Q5
-Movie theather ticket prices based on age
-3.6
-2.B
-09:38	
-1/1
-Q6
-Internet Engineering Task Force (IETF)
-4.1
-5.A
-02:15	
-1/1
-Q7
-Assignment statements with start end and current
-3.1
-4.B
-01:33	
-1/1
-Q8
-Metadata about photos
-2.3
-5.B
-00:44	
-1/1
-Q9
-Benefits of incremental and iterative development
-1.3
-1.B
-00:30	
-1/1
-Q10
-Writing code to use procedure DrawCircle
-3.12
-3.B
-00:46	
-1/1
-Q11
-Simulate spinner with three unequal sections
-3.15
-2.B
-01:32	
-1/1
-Q12
-Social media 12 year projections
-2.3
-5.B
-02:48	
-1/1
-Q13
-Social media hypotheses
-2.3
-5.B
-01:15	
-0/1
-Q14
-Comparing loop algorithms
-3.9
-1.D
-02:16	
-0/1
-Q15
-Internet communications characteristics
-4.1
-5.A
-10:30	
-1/1
-Q16
-Consequences of downloading licensed music seller
-5.5
-5.E
-01:23	
-1/1
-Q17
-Reducing the digital divide
-5.2
-5.C
-01:08	
-0/1
-Q18
-Predicting births with a computer model
-3.16
-1.D
-00:49	
-1/1
-Q19
-Library e-books metadata
-2.3
-5.B
-00:27	
-1/1
-Q20
-Finding the maximum value of three using MAX
-3.12
-3.B
-05:48	
-1/1
-Q21
-Comparing robot algorithms
-3.12
-3.B
-01:01	
-1/1
-Q22
-Procedure to determine the weather
-3.9
-2.B
-00:55	
-1/1
-Q23
-Redundant routing with four computers
-4.2
-1.D
-00:17	
-1/1
-Q24
-Compression by replacing TH and IS with characters
-2.2
-1.D
-04:12	
-1/1
-Q25
-Shortening strings by replacing TH and IS
-2.2
-1.D
-00:29	
-0/1
-Q26
-Completing robot code by adding if statement
-3.6
-2.B
-09:59	
-0/1
-Q27
-Guessing a secret number
-1.4
-4.C
-17:14	
-1/1
-Q28
-Text-editing application with binary sequences
-2.1
-3.C
-01:00	
-1/1
-Q29
-Diagram with three logic gates
-3.5
-2.B
-00:52	
-0/1
-Q30
-Video-streaming service by genre
-3.17
-1.D
-00:20	
-0/1
-Q31
-Comparing loop algorithms with robots
-3.9
-1.D
-00:37	
-0/1
-Q32
-Comparing smartphone and reading data in a graph
-2.3
-5.B
-00:51	
-1/1
-Q33
-Apartment rental Web site flowchart
-3.5
-2.B
-00:50	
-1/1
-Q34
-Mouse and predator simulations
-3.16
-1.D
-00:22	
-0/1
-Q35
-Musicians and copyright violations
-5.5
-5.E
-01:41	
-1/1
-Q36
-Result of computer performing 2 divide by 3
-2.1
-1.D
-00:43	
-1/1
-Q37
-Comparing code segments to compute average from list
-3.9
-1.D
-03:34	
-0/1
-Q38
-Frequent customers of a snack bar
-3.3
-4.B
-10:58	
-0/1
-Q39
-Internet open standars and protocols
-4.1
-5.A
-00:32	
-1/1
-Q40
-Computer science midterm and final grades
-2.3
-5.B
-00:39	
-1/1
-Q41
-Computer science midterm and final with MAX
-2.4
-2.B
-00:58	
-1/1
-Q42
-Increasing bit representation for internet protocol
-2.1
-3.C
-00:22	
-1/1
-Q43
-Runtime of algorithm for online retailer
-3.17
-1.D
-00:17	
-0/1
-Q44
-Using a 4 bit representation for integers
-2.1
-1.D
-00:15	
-0/1
-Q45
-NAND logic gate
-3.5
-2.B
-00:44	
-0/1
-Q46
-Infinite loops in undecideable problems
-3.18
-1.A
-00:16	
-1/1
-Q47
-Encrypting and decrypting using public key cryptography
-5.6
-5.E
-00:27	
-1/1
-Q48
-Science experiment with 75 percent successful trials
-3.15
-2.B
-01:06	
-0/1
-Q49
-Completing code to display multiples of 5
-3.8
-2.B
-00:32	
-1/1
-Q50
-Searching list target
-3.10
-4.B
-00:34	
-0/1
-Q51
-Examples of symmetric encryption
-5.6
-5.D
-00:25	
-0/1
-Q52
-Algorithms to identify palindrome words in list
-2.4
-2.B
-00:21	
-0/1
-Q53
-Purpose of maching learning programs
-5.1
-5.C
-00:15	
-1/1
-Q54
-Abstraction with procedures Square and Cube
-3.13
-3.C
-00:15	
-1/1
-Q55
-Results of the KeepPlaying procedure
-3.12
-4.B
-00:55	
-0/1
-Q56
-Skip counting integers in a loop
-3.8
-4.B
-00:42	
-0/1
-Q57
-Generate Happy from Harp and Puppy
-3.12
-3.B
-00:34	
-0/1
-Q58
-Defining Internet enabled crowdsourcing
-5.4
-1.C
-00:22	
-1/1
-Q59
-Movie studio media librarian
-2.2
-1.D
-00:17	
-1/1
-Q60
-Managing complexity with abstraction
-3.13
-3.C
-00:32	
-0/1
-Q61
-Data about students at East and West High schools
-2.3
-5.B
-01:16	
-0/1
-Q62
-Compare online encyclopedia with paper encyclopedia
-5.1
-5.C
-00:17	
-0/1
-Q63
-Use of isPrime procedure
-1.4
-4.C
-00:17	
-0/1
-Q64
-Cloud computing and the Internet
-5.1
-5.C
-01:00	
-1/1
-Q65
-Correcting errors in procedure Multiply
-1.4
-4.C
-01:09	
-0/1
-Q66
-Test cases for procedure Smallest
-1.4
-4.C
-00:39	
-0/1
+These are a few questions that I missed on the college board MCQ:
 
+1. Directions: The question or incomplete statement below is followed by four suggested answers or completions. Select the one that is best in each case.
 
+Which of the following actions could be used to help reduce the digital divide?
 
+I.   Providing free education and training on how to use computing devices
+II.  Providing free or low-cost computing devices to low-income individuals
+III. Providing networks and infrastructure to people in remote areas
+
+I chose the option: I and II only. The correct answer is I, II and III.  A lack of access to networks contributes to the digital divide. This issue could be addressed by providing networks and infrastructure.
+
+2. Directions: The question or incomplete statement below is followed by four suggested answers or completions. Select the one that is best in each case.
+
+The diagram below shows a circuit composed of three logic gates. Each gate takes two inputs and produces a single output.For which of the following input values will the circuit have an output of false ?
+
+A) A equals true, B equals false, C equals false, D equals false
+B) A equals true, B equals true, C equals false, D equals false
+C) A equals false, B equals false, C equals true, D equals true
+D) A equals false, B equals false, C equals false, D equals true
+
+<img src="https://user-images.githubusercontent.com/142523190/280942782-9a221782-d988-491b-95b7-6a6f5875a7cb.png"
+         width="400" height="400"
+
+3. Directions: The question or incomplete statement below is followed by four suggested answers or completions. Select the one that is best in each case.
+
+A snack bar has a frequent customer program in which every 10th purchase is free. Customers are enrolled in the program when they make their first purchase. A programmer is writing a program to implement the frequent customer program. In one code segment, cost is set to 0for every 10th purchase by a given customer. The programmer will use the procedure One word, Get Count, open parenthesis, one word, customer I D, close parenthesis , which returns the total number of
+purchases a customer has made since enrolling in the frequent customer program, including his or her first purchase.
+
+Which of the following code segments will set cost to 0 for every 10th purchase a customer makes after enrolling in the frequent customer program?
+
+A
+The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, count divided by 10 equals 0, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.
+B
+The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer  I D, close parenthesis Line 2: IF, open parenthesis, NOT, open parenthesis, count divided by 10 equals 0, close parenthesis, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.
+C
+The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, count, MOD, 10 equals 0, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.
+D
+The program consists of 5 lines. Begin program Line 1: count, left arrow, one word Get Count, open parenthesis, one word customer I D, close parenthesis Line 2: IF, open parenthesis, NOT, open parenthesis, count, MOD, 10 equals 0, close parenthesis, close parenthesis Line 3: open brace Line 4: cost, left arrow, 0 Line 5: close brace End program.
+
+I answered B, but the correct answer is C. The expression NOT, open parenthesis, count divided by 10 equals 0, close parenthesis does not evaluate to true when count is a multiple of 1 0, so this code segment does not set cost to 0 appropriately.
+
+Directions: The question or incomplete statement below is followed by four suggested answers or completions. Select the one that is best in each case.
+
+4. A computer program uses 4 bits to represent nonnegative integers. Which of the following statements describe a possible result when the program uses this number representation?
+
+I. The operation 4 plus 8 will result in an overflow error.
+
+II. The operation 7 plus 10 will result in an overflow error.
+
+III. The operation 12 plus 3 will result in an overflow error.
+
+I chose A but the answer is B. The operation 4 + 8 doesn't produce a result large enough to cause an overflow error. 
