@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: College Board MC Review
 description: These are my reflections 
-type: plans
+type: tangibles
 courses: { compsci: {week: 12} }
 ---
 
