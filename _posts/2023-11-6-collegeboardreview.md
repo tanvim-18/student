@@ -3,14 +3,12 @@ toc: true
 comments: true
 layout: post
 title: College Board MC Review
-description: These are my reflections 
+description: These are my reflections
 type: tangibles
 courses: { compsci: {week: 12} }
 ---
 
-## 
-
-These are a few questions that I missed on the college board MCQ:
+## These are a few questions that I missed on the college board MCQ:
 
 1. Directions: The question or incomplete statement below is followed by four suggested answers or completions. Select the one that is best in each case.
 
