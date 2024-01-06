@@ -93,5 +93,3 @@ Incorrect. This expression would be equivalent to an algorithm that sets availab
 This was a flowchart problem. I almost got the right answer, except I switched the signs for the problem.
 
 ____________________________________
-
-
