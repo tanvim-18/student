@@ -19,7 +19,7 @@ Legal Ethical Concerns        cant access File
 ________________________________________________
 avg                           0.86/1
 
- 	Score|	Grader Verification|	Extras|	Key Indicators: Blog, GitHub File(s) and Key Commits
+| Score |	Grader Verification | Extras |	Key Indicators: Blog, GitHub File(s) and Key Commits|
 The Internet	 	 	 	 
 Routing and Computing	 	 	 	 
 Beneficial and Harmful Effects	 	 	 	 
