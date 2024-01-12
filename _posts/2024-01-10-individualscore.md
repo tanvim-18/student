@@ -22,7 +22,7 @@ avg                           0.86/1
 | Category |    Score   |   Grader Verification  |  Extras  |  Key Indicators: Blog, GitHub File(s) and Key Commits |
 | -------- | ---------- | ---------------------- | -------- | ----------------------------------------------------- |
 | The Internet | 0.93/1 | Aiden L | Own research on The Internet and Review of Team Teach | My HW: https://github.com/tanvim-18/student/blob/main/_posts/2023-11-27-internet.ipynb |            
-| Routing and Computing | 0.84/1  | Ryan L | Review of Team Teach and Collegeboard Video on Topic | My HW:  https://github.com/abby-albert/student/blob/main/_posts/2023-11-30-StudentTeahing.ipynb |
+| Routing and Computing | 0.84/1  | Ryan L | Review of Team Teach and Collegeboard Video on Topic | My HW:  https://github.com/tanvim-18/student/blob/main/_posts/2023-11-30-StudentTeahing.ipynb |
 | Beneficial and Harmful Effects | Tarun T | 0.8/1 | Reviewed Team Teach and Collegeboard Video on Topic | My HW: https://github.com/tanvim-18/student/blob/main/_posts/2023-11-16-Beneficial-and-Harmful-Effect.ipynb | 
 | Digital Divide | 0.9/1 | Eshaan K | Re-Review of Team Teach and Collegeboard Video on Topic | My HW: https://github.com/tanvim-18/student/blob/main/_posts/2023-12-07-TeamTeach.ipynb |     
 | Computing Bias | 0.75/1 | Isabelle P | Review of Team Teach, Additional Research with ChatGPT | My HW : https://github.com/tanvim-18/student/blob/main/_posts/2023-12-12-Computing-Bias.ipynb |         
