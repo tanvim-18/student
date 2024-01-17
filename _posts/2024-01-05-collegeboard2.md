@@ -93,3 +93,5 @@ Incorrect. This expression would be equivalent to an algorithm that sets availab
 This was a flowchart problem. I almost got the right answer, except I switched the signs for the problem.
 
 ____________________________________
+
+overall, I felt that I did much better for this college board quiz than last time. I spent a lot of time on each question, which would be something to work on for next time. I think thatI focus on getting the question right, so it took me a while to finish it. The things that I got wrong were mostly tables
