@@ -1,0 +1,26 @@
+---
+toc: true
+comments: true
+layout: post
+title: Final Individual Review
+description: Reflection
+type: posts
+courses: { compsci: {week: 24} }
+---
+
+Condensed Project Overview:
+
+Our Project is a version of cool math games. We each created different games such as ping pong, 2048 merge, memory game, and tetris. We also decided to make some of our games chemistry themed, so that it would be educational, and the students can memorize chemistry elements of the periodic table of elements. 
+
+My Key Feature:
+
+I worked on the Memory Matching Game. There are many different elements, all the way from the atomic number of 1 to 20. They will be shuffled and you have to match them together. You can also pick a different grid level to be more challenged. The game times you and sees how fast you can complete the game. 
+
+Collegeboard Requirements:
+Instructions for input from one of the following; the user, a device, an online datas stream, a file.	
+- We have input from the user to login and be able to play a game of their choice. 
+
+Use of at least one list (or other collection type) to represent a collectino of data that is stored and used to manage program complexity and help fulfill the users purpose.	
+- Yes, I used a list to list all of my elements in my game in order to shuffle them in random to play
+
+
